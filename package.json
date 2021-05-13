@@ -1,0 +1,15 @@
+{
+  "name": "genjwt",
+  "version": "1.0.0",
+  "description": "JWT Tokenizer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Dushyant Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
